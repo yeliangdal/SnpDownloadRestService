@@ -1,3 +1,3 @@
 # SnpDownloadRestService
-Rest endpoint for data download feature using Spring & Hibernate 
+Rest endpoint for data download feature using Spring 
 For Kate@Athletigen
